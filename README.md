@@ -10,3 +10,5 @@ Luns Algorithm Steps
 5.Add up all the numbers in the array as well as the dropped digit from step 1. 
 6.If the sum modulo 10 is 0 then the array contains a valid number. Conversely, 
 if the result is any number but 0, then the array contains an invalid number.
+
+Code is written in JS.
